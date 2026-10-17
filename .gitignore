@@ -1,0 +1,11 @@
+node_modules/
+.env
+coverage/
+build/
+dist/
+*.log
+.DS_Store
+lighthouse/
+.lighthouse*/
+puppeteer-output/
+puppeteer-temp/
