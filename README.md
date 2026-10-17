@@ -75,3 +75,4 @@ This section will be filled in during the next phase.
 
 - Phase 1 complete: repository scaffold and backend Express baseline.
 - Phase 2 complete: PostgreSQL schema in database/init.sql, backend connection pool, database initialization with retry, and scan data model with tests.
+- Phase 3 complete: SSRF-safe URL validation, accessibility scanner engine (Puppeteer + axe-core + Lighthouse), score blending, and mocked scanner test suite.
