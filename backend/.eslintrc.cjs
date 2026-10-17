@@ -21,5 +21,11 @@ module.exports = {
         "no-console": "off",
       },
     },
+    {
+      files: ["scanner/index.js", "scripts/manualScan.js", "database/init.js", "database/pool.js"],
+      rules: {
+        "no-console": "off",
+      },
+    },
   ],
 };
